@@ -1,0 +1,19 @@
+" Sample vimrc
+
+" Ensures user sees when they are in insert mode
+set showmode
+
+" Does not highlight searched words
+set nohlsearch
+
+" New lines match same indentation level
+set autoindent
+
+" Sets a tab to be four spaces
+set tabstop=4
+
+" Converts tabs to spaces, useful if file moves to other systems
+set expandtab
+
+" Turn on syntax highlighting in vim
+syntax on

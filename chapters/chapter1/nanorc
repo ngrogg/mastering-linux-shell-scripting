@@ -1,0 +1,10 @@
+" Sample nanorc
+
+" New lines match same indentation level
+set autoindent
+
+" Sets a tab to be four spaces
+set tabsize 4
+
+" Enable syntax highlighting
+include /usr/share/nano/sh.nanorc
