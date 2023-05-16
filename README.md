@@ -9,8 +9,8 @@ Scripts or concepts covered in each chapter
 
 ## Book information
 Name: Mastering Linux Shell Scripting <br>
-Author: Mokhtar Ebrahim, Andrew Mallett
-Publisher: Packt Publishing
-ISBN: 978-1-78899-055-4
+Author: Mokhtar Ebrahim, Andrew Mallett <br>
+Publisher: Packt Publishing <br>
+ISBN: 978-1-78899-055-4 <br>
 Cover: <br>
-![cover](images/cover.jpg)
+![Book Cover](./images/cover.jpg)
