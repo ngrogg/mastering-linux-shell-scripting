@@ -17,21 +17,21 @@ The following files/scripts are created in this chapter: <br>
 * **substitution**, A script to assign BASH command output to variables.
 
 ## Questions
-1. What is the problem with the following code? And how do we fix it?
-   `#!/bin/bash
-   var1 ="welcome to bash scripting"
-   echo $var1`
-2. What is the result of the following code?
-   `#!/bin/bash
-   arr1=(Saturday Sunday Monday Tuesday Wednesday)
-   echo ${arr1[3]}`
-3. What is the problem with the following code and how do we fix it?
-   `#!/bin/bash
-   files = 'ls -la'
-   echo $files`
-4. What is the value of the b and c variables in the following code?
-   `#!/bin/bash
-   a=15
-   b=20
-   c=a
-   b=c`
+1. What is the problem with the following code? And how do we fix it? <br>
+   `#!/bin/bash` <br>
+   `var1 ="welcome to bash scripting"` <br>
+   `echo $var1` <br>
+2. What is the result of the following code? <br>
+   `#!/bin/bash` <br>
+   `arr1=(Saturday Sunday Monday Tuesday Wednesday)` <br>
+   `echo ${arr1[3]}` <br>
+3. What is the problem with the following code and how do we fix it? <br>
+   `#!/bin/bash` <br>
+   `files = 'ls -la'` <br>
+   `echo $files` <br>
+4. What is the value of the b and c variables in the following code? <br>
+   `#!/bin/bash` <br>
+   `a=15` <br>
+   `b=20` <br>
+   `c=a` <br>
+   `b=c` <br>
