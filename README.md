@@ -13,4 +13,4 @@ Author: Mokhtar Ebrahim, Andrew Mallett <br>
 Publisher: Packt Publishing <br>
 ISBN: 978-1-78899-055-4 <br>
 Cover: <br>
-![Book Cover](./images/cover.jpg)
+![Book Cover](./images/cover.jpeg)
