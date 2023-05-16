@@ -5,7 +5,8 @@ My rendition of the topics and scripts covered in the book "Mastering Linux Shel
 by Mokhtar Ebrahim and Andrew Mallett.
 
 ## Chapters
-Scripts or concepts covered in each chapter
+Scripts or concepts covered in each chapter. <br>
+Each chapter has it's own README which goes more in-depth on the chapter topics and scripts created.
 
 ## Book information
 Name: Mastering Linux Shell Scripting <br>

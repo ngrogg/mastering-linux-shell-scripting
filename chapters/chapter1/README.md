@@ -1,4 +1,4 @@
-# Chapter 1: The What and WHy of Scripting with BASH
+# Chapter 1: The What and Why of Scripting with BASH
 
 ## Overview
 An introductory chapter to the very basics of BASH. Includes some helpful tools to install and some configurations to create.
